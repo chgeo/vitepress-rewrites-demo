@@ -11,3 +11,5 @@
 <script setup>
 import ComponentA from './ComponentA.vue'
 </script>
+
+<!--@include: ./include.md-->
